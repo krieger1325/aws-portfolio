@@ -8,7 +8,7 @@
 
 ## Welcome to my AWS Cloud Engineer Portfolio!
 
-This portfolio showcases 10 real-world projects to demonstrate my  
+This portfolio showcases 16 real-world projects to demonstrate my  
 skills in cloud infrastructure, DevOps, data engineering, security, and automation.  
 
 ## About Me
